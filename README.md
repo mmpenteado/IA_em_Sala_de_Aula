@@ -48,7 +48,7 @@ Avaliação formativa através de:
 
 ## 📂 Estrutura do Projeto
 
-Desafio_IA_Educacao/
+IA_em_Sala_de_Aula/
 
 │
 
