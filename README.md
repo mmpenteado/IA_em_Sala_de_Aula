@@ -49,13 +49,21 @@ Avaliação formativa através de:
 ## 📂 Estrutura do Projeto
 
 Desafio_IA_Educacao/
+
 │
+
 ├── 📄 Plano de Aula IA.pdf # Plano de aula completo em PDF
+
 ├── 🎨 Apresentacao Aula IA.pptx # Apresentação em PowerPoint
+
 ├── 📝 Reflexao IA.pdf # Documento de reflexão em PDF
+
 ├── 📚 Materiais Complementares.pdf # Textos, atividades e exercícios
+
 ├── 👥 Plano de Diferenciacao.pdf # Adaptações para diferentes perfis
+
 ├── 📋 README.md # Este arquivo
+
 └── 💬 prompts.md # Todos os prompts utilizados
 
 
