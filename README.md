@@ -67,6 +67,18 @@ IA_em_Sala_de_Aula/
 └── 💬 prompts.md # Todos os prompts utilizados
 
 
+## Check List de Auditoria Ética
+
+-[x] Plano completo com seções e [Assistido por IA] sinalizado
+-[x] Materiais (textos, exercício, atividade) prontos
+-[x] Adaptação para 2 perfis implementada
+-[x] Tradução de trecho (Inglês CEFR A2) incluída
+-[x] Apresentação .pptx gerada
+-[x] README.md com links e reflexão adicionados
+-[x] Nomes de arquivos corretos: Plano de Aula IA.pdf e Apresentacao Aula IA.pptx
+-[x] Conformidade com privacidade/autoria e rubrica incluída
+
+
 ## 🤔 Reflexão Final sobre o Uso de IA na Educação
 
 ### ✅ Pontos Positivos Identificados
