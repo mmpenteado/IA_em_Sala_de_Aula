@@ -103,9 +103,8 @@ A experiência demonstrou que a IA, quando usada com critério e revisão humana
 **Desenvolvedor(a):** [Maíra Menezes Penteado](https://www.linkedin.com/in/mmpenteado/)  
 **Curso:** Educa IA - Santander - DIO  
 **Instituição:** Digital Innovation One (DIO)  
-**Professor Orientador:** [Gabriel Vieira]  
-**Data de Conclusão:** [dez 2025]
-
+**Professor Orientador:** Gabriel Vieira  
+**Data de Conclusão:** dez 2025
 ---
 
 ### 📄 Licença e Uso
