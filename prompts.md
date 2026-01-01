@@ -48,9 +48,13 @@ Formate este documento com Títulos H1–H3, listas numeradas e uma tabela para 
 
 Crie um PACOTE COMPLETO de materiais complementares sobre o tema "EVOLUÇÃO DOS MAMÍFEROS".
 O pacote deve conter TRÊS SEÇÕES PRINCIPAIS:
+
 ===========================================
+
 SEÇÃO 1: TEXTO-BASE PARA OS ALUNOS
+
 ===========================================
+
 Crie um texto didático sobre "Evolução dos Mamíferos" para alunos do 7º ano.
 
 REQUISITOS:
@@ -69,8 +73,11 @@ FORMATAÇÃO:
 - Glossário no final (3 termos: seleção natural, adaptação, fósseis)
 
 ===========================================
+
 SEÇÃO 2: ATIVIDADE PRÁTICA
+
 ===========================================
+
 Crie uma atividade prática "ANÁLISE COMPARATIVA" para ser feita em 20-25 minutos.
 
 DETALHES:
@@ -83,8 +90,11 @@ DETALHES:
 - Critérios de avaliação (observação do professor)
 
 ===========================================
+
 SEÇÃO 3: EXERCÍCIOS DE FIXAÇÃO
+
 ===========================================
+
 Crie um conjunto de exercícios variados:
 
 1. 2 questões de múltipla escolha (4 alternativas cada)
@@ -100,8 +110,11 @@ INCLUIR:
 - Indicação da habilidade trabalhada em cada questão
 
 ===========================================
+
 REGRAS GERAIS PARA TODO O PACOTE:
+
 ===========================================
+
 1. Em cada item criado por você, inclua [Assistido por IA] e, quando pertinente, um alerta ético/autorais (ex.: evitar uso de imagens com licença restrita).
 2. NÃO utilize dados pessoais em exemplos
 3. Adapte para o nível do 7º ano (12-13 anos)
@@ -233,8 +246,11 @@ CARD 10: CRÉDITOS E FONTES
   * Revisão pedagógica: Professor(a) [Seu Nome]
 
 ===========================================
+
 REGRAS DE DESIGN PARA GAMMA.APP:
+
 ===========================================
+
 1. PALETA DE CORES PRINCIPAL:
    - Azul escuro (#0A2463) - mistério/profundidade
    - Marrom terra (#8B4513) - fósseis/terra
@@ -270,8 +286,11 @@ REGRAS DE DESIGN PARA GAMMA.APP:
    - Menção ao plano de aula original como base
 
 ===========================================
+
 INSTRUÇÕES FINAIS:
+
 ===========================================
+
 - Esta apresentação deve ser ENGRAJADORA, não apenas informativa
 - Use a METÁFORA DO DETETIVE em todos os elementos possíveis
 - Balanceie TEXTO com IMAGENS (70% visual, 30% textual)
@@ -319,4 +338,5 @@ Faça uma auditoria ética do projeto “Fundamentos do protocolo TCP/IP, 2º an
 -[ ]README.md com links e reflexão adicionados
 
 -[ ]Nomes de arquivos corretos: Plano_de_Aula_IA.pdf|.docx e Apresentacao_Aula_IA.pptx
+
 -[ ]Conformidade com privacidade/autoria e rubrica incluída
