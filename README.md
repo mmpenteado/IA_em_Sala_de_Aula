@@ -48,26 +48,26 @@ Avaliação formativa através de:
 
 ## 📂 Estrutura do Projeto
 
-IA_em_Sala_de_Aula/
-│
-├── 📄 Plano de Aula IA.pdf # Plano de aula completo em PDF
-├── 🎨 Apresentacao Aula IA.pptx # Apresentação em PowerPoint
-├── 📚 Materiais Complementares.pdf # Textos, atividades e exercícios
-├── 👥 Plano de Diferenciacao.pdf # Adaptações para diferentes perfis
-├── 📋 README.md # Este arquivo
-└── 💬 prompts.md # Todos os prompts utilizados
+IA_em_Sala_de_Aula/ <br>
+│ <br>
+├── 📄 Plano de Aula IA.pdf # Plano de aula completo em PDF <br>
+├── 🎨 Apresentacao Aula IA.pptx # Apresentação em PowerPoint <br>
+├── 📚 Materiais Complementares.pdf # Textos, atividades e exercícios <br>
+├── 👥 Plano de Diferenciacao.pdf # Adaptações para diferentes perfis <br>
+├── 📋 README.md # Este arquivo <br>
+└── 💬 prompts.md # Todos os prompts utilizados <br>
 
 
 ## Check List de Auditoria Ética
 
--[x] Plano completo com seções e [Assistido por IA] sinalizado
--[x] Materiais (textos, exercício, atividade) prontos
--[x] Adaptação para 2 perfis implementada
--[x] Tradução de trecho (Inglês CEFR A2) incluída
--[x] Apresentação .pptx gerada
--[x] README.md com links e reflexão adicionados
--[x] Nomes de arquivos corretos: Plano de Aula IA.pdf e Apresentacao Aula IA.pptx
--[x] Conformidade com privacidade/autoria e rubrica incluída
+- [x] Plano completo com seções e [Assistido por IA] sinalizado
+- [x] Materiais (textos, exercício, atividade) prontos
+- [x] Adaptação para 2 perfis implementada
+- [x] Tradução de trecho (Inglês CEFR A2) incluída
+- [x] Apresentação .pptx gerada
+- [x] README.md com links e reflexão adicionados
+- [x] Nomes de arquivos corretos: Plano de Aula IA.pdf e Apresentacao Aula IA.pptx
+- [x] Conformidade com privacidade/autoria e rubrica incluída
 
 
 ## 🤔 Reflexão Final sobre o Uso de IA na Educação
